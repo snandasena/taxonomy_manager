@@ -1,0 +1,5 @@
+.idea/
+taxonomy/migrations
+__pycache__
+txm_api/__pycache__
+*.iml
